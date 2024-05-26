@@ -1,0 +1,82 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Rider directories
+.idea/
+.idea_modules/
+*.sln.iml
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an Android project
+build/
+# Build Results of an Xcode project
+[Xx]code/[Bb]uild/
+
+# Packages directory can be ignored for native projects
+**/[Pp]ackages/
+*.nupkg
+# Uncomment if necessary however generally it will be a subset of the files in .nuget/packages
+#!**/[Pp]ackages/build/
+
+# Ignore .NET Core project artifact
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Auto generated files (all editors)
+*~
+
+# git-directory information
+.git/
+
+# Windows file database
+*.ldb
+
+# Windows Precompiled Headers
+*.pch
+
+# Windows Directories
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Windows shortcuts
+*.lnk
