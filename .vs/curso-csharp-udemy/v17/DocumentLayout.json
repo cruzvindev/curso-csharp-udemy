@@ -1,12 +1,41 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A892E7D-CACA-4F0D-9435-AEB118B27783}|PartialClass\\PartialClass.csproj|c:\\curso-c-sharp\\projetos\\meusolucao\\partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A892E7D-CACA-4F0D-9435-AEB118B27783}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\PartialClass\\Program.cs",
+              "RelativeDocumentMoniker": "PartialClass\\Program.cs",
+              "ToolTip": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\PartialClass\\Program.cs",
+              "RelativeToolTip": "PartialClass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:29:24.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
