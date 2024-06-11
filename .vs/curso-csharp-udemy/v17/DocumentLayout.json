@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A907B99A-31AD-4204-A213-F7BF5F4AA056}|Random\\Random.csproj|c:\\curso-c-sharp\\projetos\\meusolucao\\random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A907B99A-31AD-4204-A213-F7BF5F4AA056}|Random\\Random.csproj|solutionrelative:random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\Random\\Program.cs",
-              "RelativeDocumentMoniker": "Random\\Program.cs",
-              "ToolTip": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\Random\\Program.cs",
-              "RelativeToolTip": "Random\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T23:09:47.587Z",
-              "EditorCaption": ""
             }
           ]
         }
