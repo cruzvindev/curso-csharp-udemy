@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{987CAA00-A02C-406D-A10A-AFE035C1422C}|LINQ1\\LINQ1.csproj|c:\\curso-c-sharp\\projetos\\meusolucao\\linq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{987CAA00-A02C-406D-A10A-AFE035C1422C}|LINQ1\\LINQ1.csproj|solutionrelative:linq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6727AE91-38DF-4483-9510-DEEA00131A75}|SerializacaoXML\\SerializacaoXML.csproj|c:\\curso-c-sharp\\projetos\\meusolucao\\serializacaoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6727AE91-38DF-4483-9510-DEEA00131A75}|SerializacaoXML\\SerializacaoXML.csproj|solutionrelative:serializacaoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FCA97F-B698-4F51-82B8-A7DDB033A0B5}|SerializacaoBinaria\\SerializacaoBinaria.csproj|c:\\curso-c-sharp\\projetos\\meusolucao\\serializacaobinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FCA97F-B698-4F51-82B8-A7DDB033A0B5}|SerializacaoBinaria\\SerializacaoBinaria.csproj|solutionrelative:serializacaobinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC5B06-6233-4B49-9E47-88891078D5EC}|SerializacaoJSON\\SerializacaoJSON.csproj|c:\\curso-c-sharp\\projetos\\meusolucao\\serializacaojson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC5B06-6233-4B49-9E47-88891078D5EC}|SerializacaoJSON\\SerializacaoJSON.csproj|solutionrelative:serializacaojson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +30,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\SerializacaoJSON\\Program.cs",
+              "RelativeDocumentMoniker": "SerializacaoJSON\\Program.cs",
+              "ToolTip": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\SerializacaoJSON\\Program.cs",
+              "RelativeToolTip": "SerializacaoJSON\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:41:49.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\SerializacaoBinaria\\Program.cs",
+              "RelativeDocumentMoniker": "SerializacaoBinaria\\Program.cs",
+              "ToolTip": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\SerializacaoBinaria\\Program.cs",
+              "RelativeToolTip": "SerializacaoBinaria\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:33:34.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\LINQ1\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ1\\Program.cs",
-              "ToolTip": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\LINQ1\\Program.cs",
-              "RelativeToolTip": "LINQ1\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBsAAAAPAAAA",
+              "DocumentMoniker": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\SerializacaoXML\\Program.cs",
+              "RelativeDocumentMoniker": "SerializacaoXML\\Program.cs",
+              "ToolTip": "C:\\curso-c-sharp\\projetos\\MeuSolucao\\SerializacaoXML\\Program.cs",
+              "RelativeToolTip": "SerializacaoXML\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T00:42:57.832Z",
+              "WhenOpened": "2024-07-01T23:59:05.856Z",
               "EditorCaption": ""
             }
           ]

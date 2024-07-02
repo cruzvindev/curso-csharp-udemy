@@ -124,27 +124,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{80BD1850-5025-4150-8E86-920CB894E82B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesMulticast", "DelegatesMulticast\DelegatesMulticast.csproj", "{8D691E0A-48BD-4D39-81A3-8B6D2A81F2B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesMulticast", "DelegatesMulticast\DelegatesMulticast.csproj", "{8D691E0A-48BD-4D39-81A3-8B6D2A81F2B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncoesAnonimas", "FuncoesAnonimas\FuncoesAnonimas.csproj", "{2EA46CF7-7844-4C02-80C8-94CB85A4A118}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncoesAnonimas", "FuncoesAnonimas\FuncoesAnonimas.csproj", "{2EA46CF7-7844-4C02-80C8-94CB85A4A118}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressoesLambda", "ExpressoesLambda\ExpressoesLambda.csproj", "{3A5B07ED-B56F-4A6D-B056-7AE5C3CA5585}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressoesLambda", "ExpressoesLambda\ExpressoesLambda.csproj", "{3A5B07ED-B56F-4A6D-B056-7AE5C3CA5585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatePredicate", "DelegatePredicate\DelegatePredicate.csproj", "{947F8107-9A15-48B3-9F19-3544AC88D72A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatePredicate", "DelegatePredicate\DelegatePredicate.csproj", "{947F8107-9A15-48B3-9F19-3544AC88D72A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAction", "DelegateAction\DelegateAction.csproj", "{97312A87-BD09-44D5-90FE-2DD716664900}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateAction", "DelegateAction\DelegateAction.csproj", "{97312A87-BD09-44D5-90FE-2DD716664900}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateFunc", "DelegateFunc\DelegateFunc.csproj", "{2FDF4403-5283-4004-A15E-64548806F815}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateFunc", "DelegateFunc\DelegateFunc.csproj", "{2FDF4403-5283-4004-A15E-64548806F815}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos", "Eventos\Eventos.csproj", "{82A50600-F532-47EC-9B36-7287701F02A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eventos", "Eventos\Eventos.csproj", "{82A50600-F532-47EC-9B36-7287701F02A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandler", "EventHandler\EventHandler.csproj", "{917311DF-2138-4263-853B-6337424D6F41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventHandler", "EventHandler\EventHandler.csproj", "{917311DF-2138-4263-853B-6337424D6F41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEvntHandler", "TEvntHandler\TEvntHandler.csproj", "{17E8EAD4-7A38-4E1A-A4EE-7BF796EDAC40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TEvntHandler", "TEvntHandler\TEvntHandler.csproj", "{17E8EAD4-7A38-4E1A-A4EE-7BF796EDAC40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosDeExtensao", "MetodosDeExtensao\MetodosDeExtensao.csproj", "{7FBD36AE-B368-4F61-8D42-AF995290BEAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosDeExtensao", "MetodosDeExtensao\MetodosDeExtensao.csproj", "{7FBD36AE-B368-4F61-8D42-AF995290BEAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ1", "LINQ1\LINQ1.csproj", "{987CAA00-A02C-406D-A10A-AFE035C1422C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ1", "LINQ1\LINQ1.csproj", "{987CAA00-A02C-406D-A10A-AFE035C1422C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ2", "LINQ2\LINQ2.csproj", "{519E7F66-B1DD-42C7-86F5-EC0545386064}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ3", "LINQ3\LINQ3.csproj", "{0F1F7C9F-9FF0-4A9A-8650-58DBCCB4A324}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ4", "LINQ4\LINQ4.csproj", "{60D43323-D7B3-4E64-AD73-AA15CA6241B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "File", "File\File.csproj", "{BFF68096-55D5-4E26-BC20-A3278998C52C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileInfo", "FileInfo\FileInfo.csproj", "{17FFA5FA-9B84-4A6F-9819-BC94AD239F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializacaoBinaria", "SerializacaoBinaria\SerializacaoBinaria.csproj", "{18FCA97F-B698-4F51-82B8-A7DDB033A0B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializacaoXML", "SerializacaoXML\SerializacaoXML.csproj", "{6727AE91-38DF-4483-9510-DEEA00131A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializacaoJSON", "SerializacaoJSON\SerializacaoJSON.csproj", "{A3EC5B06-6233-4B49-9E47-88891078D5EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -428,6 +444,38 @@ Global
 		{987CAA00-A02C-406D-A10A-AFE035C1422C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{987CAA00-A02C-406D-A10A-AFE035C1422C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{987CAA00-A02C-406D-A10A-AFE035C1422C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519E7F66-B1DD-42C7-86F5-EC0545386064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519E7F66-B1DD-42C7-86F5-EC0545386064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519E7F66-B1DD-42C7-86F5-EC0545386064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519E7F66-B1DD-42C7-86F5-EC0545386064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1F7C9F-9FF0-4A9A-8650-58DBCCB4A324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1F7C9F-9FF0-4A9A-8650-58DBCCB4A324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1F7C9F-9FF0-4A9A-8650-58DBCCB4A324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1F7C9F-9FF0-4A9A-8650-58DBCCB4A324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D43323-D7B3-4E64-AD73-AA15CA6241B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D43323-D7B3-4E64-AD73-AA15CA6241B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D43323-D7B3-4E64-AD73-AA15CA6241B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D43323-D7B3-4E64-AD73-AA15CA6241B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF68096-55D5-4E26-BC20-A3278998C52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF68096-55D5-4E26-BC20-A3278998C52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF68096-55D5-4E26-BC20-A3278998C52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF68096-55D5-4E26-BC20-A3278998C52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FFA5FA-9B84-4A6F-9819-BC94AD239F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FFA5FA-9B84-4A6F-9819-BC94AD239F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FFA5FA-9B84-4A6F-9819-BC94AD239F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FFA5FA-9B84-4A6F-9819-BC94AD239F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FCA97F-B698-4F51-82B8-A7DDB033A0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FCA97F-B698-4F51-82B8-A7DDB033A0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FCA97F-B698-4F51-82B8-A7DDB033A0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FCA97F-B698-4F51-82B8-A7DDB033A0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6727AE91-38DF-4483-9510-DEEA00131A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6727AE91-38DF-4483-9510-DEEA00131A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6727AE91-38DF-4483-9510-DEEA00131A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6727AE91-38DF-4483-9510-DEEA00131A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3EC5B06-6233-4B49-9E47-88891078D5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3EC5B06-6233-4B49-9E47-88891078D5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3EC5B06-6233-4B49-9E47-88891078D5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3EC5B06-6233-4B49-9E47-88891078D5EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
