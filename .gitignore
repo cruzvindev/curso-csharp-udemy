@@ -80,3 +80,5 @@ artifacts/
 
 # Windows shortcuts
 *.lnk
+.idea/
+.vs/
